@@ -11,3 +11,5 @@ You can contact me on:- If anyone need any help on creating dashbord or report c
 ![image](https://github.com/sck-30598/POWER_BI/assets/135603646/d9fb66ac-6888-458f-9a39-9e4a472f97ab) : https://www.linkedin.com/in/bodagoddu-sharath-chandra-kumar-4156801ab
 
 ![image](https://github.com/sck-30598/POWER_BI/assets/135603646/1a00767d-13b6-4ecc-b8cb-0ab87cb63fc4) : sck.30598@gmail.com
+
+<html><img src='https://github.com/sck-30598/POWER_BI/assets/135603646/1a00767d-13b6-4ecc-b8cb-0ab87cb63fc4' width='20px' height='20px'></html>
