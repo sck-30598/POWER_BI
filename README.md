@@ -6,6 +6,12 @@ This dashboard has options like filter based on age(18y to 80y), gender(M,F), co
 
 ![image](https://github.com/sck-30598/POWER_BI/assets/135603646/eece096c-55b6-4913-982f-102a290c11be)
 
+![image](https://github.com/sck-30598/POWER_BI/assets/135603646/565e0afa-3a4c-4f6a-99d2-07148f599ca1)
+
+
+![image](https://github.com/sck-30598/POWER_BI/assets/135603646/fee70ff9-8625-4ae2-ab98-3f8dd6e016a9)
+
+
 
 You can contact me on:- If anyone need any help on creating dashbord or report creation feel free to contact
  
