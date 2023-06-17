@@ -11,7 +11,8 @@ This dashboard has options like filter based on age(18y to 80y), gender(M,F), co
 
 ![image](https://github.com/sck-30598/POWER_BI/assets/135603646/fee70ff9-8625-4ae2-ab98-3f8dd6e016a9)
 
-The columns used are 
+The columns used are:
+
 order_id,	qty_ordered,	price,	total,	category,		year,	month,	Gender,	age,	full_name,	County,	Region
 
 
