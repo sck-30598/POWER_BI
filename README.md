@@ -1,6 +1,6 @@
 # POWER_BI
 
-Analysed customer data and created interactive dashboardusing power BI.
+Analysed customer sales data and created interactive dashboardusing power BI.
 
 This dashboard has options like filter based on age(18y to 80y), gender(M,F), country(list included).
 
